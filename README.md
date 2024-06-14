@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chathuranga 👋
 
 <div style="text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/145315287?s=400&u=e1b66d9b5c789e54e9bb0a88be59db5db48762c2&v=4" alt="Profile Picture" width="200" style="border-radius:50%">
@@ -43,4 +43,7 @@
     <li>[Another Fun Fact About You]</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Chathur0&show_icons=true&theme=radical" alt="GitHub Stats">
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chathur0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
