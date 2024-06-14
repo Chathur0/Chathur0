@@ -47,3 +47,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chathur0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Chathur0&theme=onedark" alt="GitHub Trophies">
+</div>
