@@ -50,7 +50,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chathur0&theme=redical" alt="Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chathur0&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ## 📫 Let's Connect
