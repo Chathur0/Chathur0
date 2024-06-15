@@ -1,7 +1,11 @@
 # Hi there, I'm Chathuranga 👋
 
 <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/145315287?s=400&u=e1b66d9b5c789e54e9bb0a88be59db5db48762c2&v=4" alt="Profile Picture" width="200" style="border-radius:50%">
+    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+    <foreignObject width="100%" height="100%">
+      <img src="https://avatars.githubusercontent.com/u/145315287?s=400&u=e1b66d9b5c789e54e9bb0a88be59db5db48762c2&v=4" alt="Profile Picture" width="200" height="200" style="border-radius:50%;">
+    </foreignObject>
+  </svg>
 </div>
 
 ## About Me
