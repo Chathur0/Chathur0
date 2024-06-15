@@ -8,7 +8,9 @@
 <p>
     I'm a passionate developer with a love for building innovative solutions and contributing to the open-source community. My expertise lies in <strong>[Your Key Areas of Expertise]</strong>, and I'm always eager to learn and explore new technologies.
 </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Chathur0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Chathur0" style="padding-right:20px;" />
+</p>
 ## 🚀 Current Projects
 <ul>
     <li><a href="https://github.com/Chathur0/Project-MBS.git"><strong>Project MBS</strong></a>: Create foreigners management system for Meth Bo Sewana Meditation Center.</li>
