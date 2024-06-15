@@ -50,7 +50,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Chathur0&theme=redical" alt="Contribution Graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chathur0&theme=redical" alt="Contribution Graph">
 </div>
 
 ## 📫 Let's Connect
