@@ -25,7 +25,7 @@
 
 ## 🏆 Contributions & Achievements
 <ul>
-    <li>Contributed to <a href="URL_TO_PROJECT_REPO"><strong>Project Name</strong></a> by implementing <em>Feature or Fix</em>.</li>
+    <li>Contributed to <a href="https://github.com/Chathur0/Project-MBS.git"><strong>Project MBS</strong></a> by implementing <em>Feature or Fix</em>.</li>
     <li>Received <strong>Award/Recognition</strong> for <em>Achievement</em>.</li>
 </ul>
 
@@ -57,7 +57,7 @@
 <p>
     Email: <a href="chathurangampnuwan@gmail.com">chathurangampnuwan@gmail.com</a><br>
     LinkedIn: <a href="https://www.linkedin.com/in/chathuranga-denuwan-09847b307/">My LinkedIn</a><br>
-    Twitter: <a href="https://x.com/Chathu0929">My X/a><br>
+    Twitter: <a href="https://x.com/Chathu0929">My X</a><br>
 </p>
 
 <p align="center">
