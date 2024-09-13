@@ -27,13 +27,6 @@
 </p>
 <br />
 
-## 🚀 Current Projects 🚀
-<ul>
-    <li><a href="https://github.com/Chathur0/Project-MBS.git"><strong>Project MBS</strong></a>: Create foreigners management system for Meth Bo Sewana Meditation Center.</li>
-    <li><a href="https://github.com/Chathur0/Project_MBS_BackEnd.git"><strong>Project MBS backend</strong></a>: Backend implimentation of Project MBS.</li>
-</ul>
-<br />
-
 ## 🛠️ Skills & Technologies 🛠️
 <p align="center">
 <img width="500px" src="https://skillicons.dev/icons?i=py,java,js,html,css,angular,react,nodejs,express,spring,sqlite,mysql,mongo,firebase,git,vscode,docker,kotlin,androidstudio,bootstrap,wix,wordpress,figma,c++,aws,postman,linux&perline=10" />
